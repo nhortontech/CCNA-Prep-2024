@@ -5,6 +5,7 @@ Recommended order of reading:
 - Jeremy's IT Lab CCNA Prep
 - CCNA Spanning Tree Protocol
 - OSPF + FHRPs
+- ACLs (Access Control Lists)
 - CCNA Subnetting Practice Questions
 - CCNA Labs as Per Exam Topics Outline
 - Lab Practice via Jeremy's IT Lab
